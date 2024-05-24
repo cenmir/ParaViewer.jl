@@ -1,6 +1,9 @@
-using VtkVisualizer
+using ParaViewer
 using Test
 
-@testset "VtkVisualizer.jl" begin
+@testset "ParaViewer.jl" begin
     # Write your tests here.
+    #@test VtkVisualizer.Hello() == "Hello VtkVisualizer"
+    #@test VtkVisualizer.Hello() != "Hello World"
+
 end

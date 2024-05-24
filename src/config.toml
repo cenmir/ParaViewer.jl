@@ -1,0 +1,14 @@
+[PrevExport]
+imageResolution = [2000, 2000]
+edgeOpacity = [0.7, 0.7]
+vtuFiles = ["active.vtu", "Ω.vtu"]
+imageFileName = "pic.png"
+edgeColoring = [[0.1, 0.1, 0.1], [0.1, 0.1, 0.1]]
+representation = ["Surface With Edges", "Surface With Edges"]
+faceOpacity = [1.0, 1.0]
+faceColoring = [[0.8, 0.8, 0.8], [1.0, 0.898, 0.498]]
+
+[General]
+paraviewPath = "C:\\Program Files\\ParaView 5.12.0\\bin\\paraview.exe"
+pvpythonPath = "C:\\Program Files\\ParaView 5.12.0\\bin\\pvpython.exe"
+pythonPath = "C:\\Users\\mirza\\AppData\\Local\\Programs\\Python\\Python310\\python.exe"

@@ -1,1 +1,7 @@
 /Manifest.toml
+/test/testing.jl
+/test/testing.ipynb
+/test/pic.png
+/src/paraViewPythonEnv/*
+/src/pyVersion.py
+/src/viz.py
