@@ -1,7 +1,5 @@
 # ParaViewer
 
-[![Build Status](https://github.com/cenmir/ParaViewer.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/cenmir/ParaViewer.jl/actions/workflows/CI.yml?query=branch%3Amain)
-
 ParaViewer is a package for visualizing vtu files using ParaView. Object properties can be set and ParaView is either launched and displays the object for further manipulation using the GUI or a png file is just generated without opening the GUI.
 
 Example:
